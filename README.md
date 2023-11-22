@@ -3,6 +3,10 @@
 <h3 align="center">Computer science, it engineer from Kazakhstan kz</h3>
 
 - 🌱 I’m currently learning golang, microservices, k8s
+
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <!--
 **alexandr-andreyev/alexandr-andreyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
