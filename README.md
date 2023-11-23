@@ -16,8 +16,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandr-andreyev&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexandr-andreyev&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexandr-andreyev&theme=dark)
-  
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=dark)
+
 <!--
 **alexandr-andreyev/alexandr-andreyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
