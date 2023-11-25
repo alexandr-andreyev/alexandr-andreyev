@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science, it engineer from Kazakhstan kz</h3>
 
-- 🌱 I’m currently learning golang, microservices, k8s
+- 🌱 I’m currently learning golang, microservices, k8s, docker, vue, quasar, flutter
   
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)  
